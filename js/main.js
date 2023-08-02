@@ -14,12 +14,3 @@ function Anim() {
     css.style.display = 'block';
     css.style.animation = 'block 1s forwards';
 }
-
-window.onload = function () {
-    const mobile = document.querySelector('.mobile');
-
-    menue.addEventListener('click', function () {
-        mobile.classList.toggle('active')
-    })
-    
-}
