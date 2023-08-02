@@ -220,10 +220,10 @@ nav a:hover{
     margin-top: 5px;
 }
 .skill{
-    padding: 65px;
+    padding: 45px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 .skill .box{
